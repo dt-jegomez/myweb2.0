@@ -49673,9 +49673,6 @@ var app2 = new Vue({
 var app3 = new Vue({
   el: '#app3'
 });
-var app4 = new Vue({
-  el: '#app4'
-});
 
 /***/ }),
 

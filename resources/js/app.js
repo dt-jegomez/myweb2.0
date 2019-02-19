@@ -47,9 +47,6 @@ const app3 = new Vue({
     el: '#app3',
     
 });
-const app4 = new Vue({
-    el: '#app4',
-    
-});
+
 
 
