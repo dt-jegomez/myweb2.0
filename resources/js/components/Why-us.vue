@@ -108,7 +108,6 @@
         this.listarExperiencia();
         this.listarTitulos();
         this.listarCursos();
-        console.log('Component mounted.')
       }
     }
 </script>

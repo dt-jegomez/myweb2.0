@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-   <!--==========================
-    Head
-  ============================--> 
+ 
 <head>
   <meta charset="utf-8">
   <title>Juan Eduardo Gómez</title>
@@ -26,9 +24,7 @@
   <link href="css/style.css" rel="stylesheet">
 </head>
 <body>
-  <!--==========================
-  Header
-  ============================-->
+
   <header id="header" class="fixed-top">
     <div class="container">
       <nav class="main-nav float-right d-none d-lg-block">
@@ -41,67 +37,40 @@
         </ul>
       </nav><!-- .main-nav -->
     </div>
-  </header><!-- #header -->
-  <!--==========================
-    Intro Section
-  ============================-->
+  </header>
+  <!-- #header -->
+  <div id="app">
   <section id="intro" class="clearfix">
-      <div id="app">
         <intro></intro>
-      </div>
-  </section>
+  </section>  
   <!-- #intro -->
-  <main id="main">
-    <!--==========================
-      About Us Section
-    ============================-->
-    <section id="about">
-      <div id="app1">
-        <about></about>
-      </div>
-    </section><!-- #about -->
-    <!--==========================
-      Services Section
-    ============================-->
-    <section id="services" class="section-bg">
-      <div id="app2">
-        <services></services>
-      </div>
-    </section><!-- #services -->
-    <!--==========================
-      Why Us Section
-    ============================-->
-    <section id="why-us" class="wow fadeIn">
-      <div id='app3'>
-        <why-us></why-us>
-      </div>
+  <main id="main">   
+    <section id="about">      
+        <about></about>      
     </section>
-    <!--==========================
-      Contact Section
-    ============================-->
+    <!-- #about -->   
+    <section id="services" class="section-bg">     
+        <services></services>      
+    </section><!-- #services -->    
+    <section id="why-us" class="wow fadeIn">      
+        <why-us></why-us>      
+    </section>
+   
     <section id="contact">
       @include('contact')
     </section><!-- #contact -->
   </main>
-  <!--==========================
-    Footer
-  ============================-->
+  </div>
+
+  
   <footer id="footer">
     <div class="footer-top">
       <div class="container">
         <div class="row">
-          <div class="col-lg-4 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><a href="#">Home</a></li>
-              <li><a href="#">About us</a></li>
-              <li><a href="#">Services</a></li>
-            </ul>
-          </div>
           <div class="col-lg-5 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
-              Calle 2a # 8a -15, Socorro, Santader<br>
+              Carrera 28-34-29, Bucaramanga, Santader<br>
               Colombia <br>
               <strong>Telefono:</strong>+57 318-831-5485<br>
               <strong>Email:</strong>go.juangomez23@gmail.com<br>

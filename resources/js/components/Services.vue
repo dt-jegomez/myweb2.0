@@ -2,7 +2,7 @@
     <div class="container">
 
         <header class="section-header">
-          <h3>Services</h3>
+          <h3>servicios</h3>
           <p>Desarrollo de software convirtiendo sus ideas en soluciones o aplicativos amigables y fáciles de usar 
             que se adaptan a sus necesidades permitiendo que su operación 
             se mantenga rentable y eficiente</p>
@@ -14,7 +14,7 @@
             <div class="box">
               <div class="icon"><i class="ion-ios-analytics-outline" style="color: #ff689b;"></i></div>
               <h4 class="title"><a href="">Sitios Web Funcionales</a></h4>
-              <p class="description">No creamos simples páginas web, creamos herramientas digitales que vendan un producto o servicio online.</p>
+              <p class="description">No creo simples páginas web, creo herramientas digitales que vendan un producto o servicio online.</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-duration="1.4s">
@@ -24,27 +24,11 @@
               <p class="description">Diseños geniales que se adaptan a cualquier tamaño de pantalla, Smartphone, PC o Tablet.</p>
             </div>
           </div>
-
           <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon"><i class="ion-ios-paper-outline" style="color: #3fcdc7;"></i></div>
               <h4 class="title"><a href="">PageSpeed Optimizado</a></h4>
               <p class="description">El tiempo de carga es un factor importante en las ventas y para los usuarios según Google.</p>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
-            <div class="box">
-              <div class="icon"><i class="ion-ios-speedometer-outline" style="color:#41cf2e;"></i></div>
-              <h4 class="title"><a href="">Analítica Web</a></h4>
-              <p class="description">Configuramos una poderosa herramienta de análisis de datos, Google Analytics.</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
-            <div class="box">
-              <div class="icon"><i class="ion-ios-world-outline" style="color: #d6ff22;"></i></div>
-              <h4 class="title"><a href="">Consola de Búsqueda</a></h4>
-              <p class="description">Importante herramienta para supervisar el estado de indexación y optimizacion del sitio web.</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
@@ -57,10 +41,4 @@
         </div>
       </div>
 </template>
-<script>
-    export default {
-        mounted() {
-            console.log('Component mounted.')
-        }
-    }
-</script>
+

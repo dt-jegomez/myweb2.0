@@ -1754,194 +1754,6 @@ module.exports = {
 
 /***/ }),
 
-/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/About.vue?vue&type=script&lang=js&":
-/*!****************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/About.vue?vue&type=script&lang=js& ***!
-  \****************************************************************************************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-/* harmony default export */ __webpack_exports__["default"] = ({
-  mounted: function mounted() {
-    console.log('Component mounted.');
-  }
-});
-
-/***/ }),
-
-/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Intro.vue?vue&type=script&lang=js&":
-/*!****************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Intro.vue?vue&type=script&lang=js& ***!
-  \****************************************************************************************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-/* harmony default export */ __webpack_exports__["default"] = ({
-  mounted: function mounted() {
-    console.log('Component mounted.');
-  }
-});
-
-/***/ }),
-
-/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Services.vue?vue&type=script&lang=js&":
-/*!*******************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Services.vue?vue&type=script&lang=js& ***!
-  \*******************************************************************************************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-/* harmony default export */ __webpack_exports__["default"] = ({
-  mounted: function mounted() {
-    console.log('Component mounted.');
-  }
-});
-
-/***/ }),
-
 /***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Why-us.vue?vue&type=script&lang=js&":
 /*!*****************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Why-us.vue?vue&type=script&lang=js& ***!
@@ -2049,7 +1861,6 @@ __webpack_require__.r(__webpack_exports__);
     this.listarExperiencia();
     this.listarTitulos();
     this.listarCursos();
-    console.log('Component mounted.');
   }
 });
 
@@ -36963,7 +36774,7 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("p", [
           _vm._v(
-            "Ingeniero de sistemas Desarrollador backend y fronend, manejo de lenguajes  JAVA, PHP, SQL, JAVASCRIPT, CSS, AJAX, \n        framewors LARAVEL, VUE.JS, BOOTSTRAP. Administración de plataformaS virtualales windosws, linux \n        administración y diseño de redes CISCO CCNA y soporte técnico de  Routing & Switching configuración de re redes lan, \n        instalación y configuración de equipos de computo como computadores e impresoras, reparación electrónica y recuperación de información."
+            "\n      Ingeniero de sistemas Desarrollador backend y fronend, manejo de lenguajes JAVA, PHP, SQL, JAVASCRIPT, CSS, AJAX, VUEX,\n      framewors LARAVEL, VUE.JS, ELECTRON.JS, BOOTSTRAP, V-BOOTSTRAP, ELEMENT UI. Administración de plataformaS virtualales windosws, linux\n      administración y diseño de redes CISCO CCNA y soporte técnico de Routing & Switching configuración de re redes lan,\n    "
           )
         ])
       ]),
@@ -36972,7 +36783,7 @@ var staticRenderFns = [
         _c("div", { staticClass: "col-lg-6 content order-lg-1 order-2" }, [
           _c("p", [
             _vm._v(
-              "Servicio de puesta en marcha de aplicativos y mejora de los mismos, ingreso y análisis de información, migración a la nube y acompañamiento permanente  a usuarios            "
+              "Servicio de puesta en marcha de aplicativos y mejora de los mismos, ingreso y análisis de información, migración a la nube y acompañamiento permanente a usuarios"
             )
           ]),
           _vm._v(" "),
@@ -36987,7 +36798,7 @@ var staticRenderFns = [
             _vm._v(" "),
             _c("p", { staticClass: "description" }, [
               _vm._v(
-                " Es el nombre que se adquiere para un sitio web y será la dirección a la que todos los visitantes accederán a través de navegador y en la que encontraran el contenido. Este es el primer paso a realizar cuando se decide crear un sitio web. Para los negocios o personas en Colombia es recomendable adquirir un dominio que termine en .CO o .COM.CO incluidos en nuestros planes de paginas web.              "
+                "Es el nombre que se adquiere para un sitio web y será la dirección a la que todos los visitantes accederán a través de navegador y en la que encontraran el contenido. Este es el primer paso a realizar cuando se decide crear un sitio web. Para los negocios o personas en Colombia es recomendable adquirir un dominio que termine en .CO o .COM.CO incluidos en nuestros planes de paginas web."
               )
             ])
           ]),
@@ -37011,7 +36822,7 @@ var staticRenderFns = [
               _vm._v(" "),
               _c("p", { staticClass: "description" }, [
                 _vm._v(
-                  "\n              La palabra ¨almacenamiento¨ que se utiliza comúnmente en ingles, hace referencia al servicio que ofrecen diversas compañías para guardar en sus sistemas los archivos necesarios ¨base de datos, textos, imágenes, videos, archivos del sistema¨ para que un sitio web pueda funcionar. Proveemos un hosting de calidad con servidores dedicados en Colombia y EEUU. Esto ayuda a que su página cargue más rápido y sin errores.              "
+                  "La palabra ¨almacenamiento¨ que se utiliza comúnmente en ingles, hace referencia al servicio que ofrecen diversas compañías para guardar en sus sistemas los archivos necesarios ¨base de datos, textos, imágenes, videos, archivos del sistema¨ para que un sitio web pueda funcionar. Proveemos un hosting de calidad con servidores dedicados en Colombia y EEUU. Esto ayuda a que su página cargue más rápido y sin errores."
                 )
               ])
             ]
@@ -37036,7 +36847,7 @@ var staticRenderFns = [
               _vm._v(" "),
               _c("p", { staticClass: "description" }, [
                 _vm._v(
-                  "El sistema de administración de contenidos. ¨CMS, por su sigla en ingles¨ es la herramienta que le permitirá montar todo el sitio de una manera gráfica y sin tener que lidiar con códigos que solo entienden los ingenieros. Nuestros CMS Orooplex se destaca por su facilidad de uso y lo sencillo que es para cualquier usuario ponerlo en funcionamiento, incluso para aquellos que no son tan hábiles con la tecnología. Desarrollos específicos que permiten sacarle el mayor provecho. "
+                  "El sistema de administración de contenidos. ¨CMS, por su sigla en ingles¨ es la herramienta que le permitirá montar todo el sitio de una manera gráfica y sin tener que lidiar con códigos que solo entienden los ingenieros. Nuestros CMS Orooplex se destaca por su facilidad de uso y lo sencillo que es para cualquier usuario ponerlo en funcionamiento, incluso para aquellos que no son tan hábiles con la tecnología. Desarrollos específicos que permiten sacarle el mayor provecho."
                 )
               ])
             ]
@@ -37080,13 +36891,13 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("p", [
             _vm._v(
-              "\n          Estudio de rutas de conversión, los factores de búsqueda, los mensajes adecuados en el lugar indicado y los datos de rendimiento para tomar mejores decisiones de diseño.\n        "
+              "Estudio de rutas de conversión, los factores de búsqueda, los mensajes adecuados en el lugar indicado y los datos de rendimiento para tomar mejores decisiones de diseño."
             )
           ]),
           _vm._v(" "),
           _c("p", [
             _vm._v(
-              "\n          Asi nuestros clientes obtienen una herramienta de ventas que trabaja todos los dias del años las 24 horas.            "
+              "Asi nuestros clientes obtienen una herramienta de ventas que trabaja todos los dias del años las 24 horas."
             )
           ])
         ])
@@ -37110,19 +36921,13 @@ var staticRenderFns = [
             _vm._v(" "),
             _c("p", [
               _vm._v(
-                "\n          incorporo diseño, tecnología, contenido y marketing. Estoy  enfocado en ayudar a las organizaciones a alcanzar objetivos centrales de negocios usando el espacio digital.            "
+                "incorporo diseño, tecnología, contenido y marketing. Estoy enfocado en ayudar a las organizaciones a alcanzar objetivos centrales de negocios usando el espacio digital."
               )
             ]),
             _vm._v(" "),
             _c("p", [
               _vm._v(
-                "\n          Voluptas saepe natus quidem blanditiis. Non sunt impedit voluptas mollitia beatae. Qui esse molestias. Laudantium libero nisi vitae debitis. Dolorem cupiditate est perferendis iusto.\n        "
-              )
-            ]),
-            _vm._v(" "),
-            _c("p", [
-              _vm._v(
-                "\n          Diseño y construción de sitios web para impactar las ventas, la promoción y la generación de clientes potenciales.            "
+                "Diseño y construción de sitios web para impactar las ventas, la promoción y la generación de clientes potenciales."
               )
             ])
           ]
@@ -37166,9 +36971,9 @@ var staticRenderFns = [
         _c("h2", [
           _vm._v("Juan Gómez"),
           _c("br"),
-          _c("span", [_vm._v("solutions")]),
+          _c("span", [_vm._v("Soluciones")]),
           _c("br"),
-          _vm._v("for your business!")
+          _vm._v("para su negocio")
         ]),
         _vm._v(" "),
         _c("div", [
@@ -37178,7 +36983,7 @@ var staticRenderFns = [
               staticClass: "btn-get-started scrollto",
               attrs: { href: "#about" }
             },
-            [_vm._v("Get Started")]
+            [_vm._v("Empecemos")]
           ),
           _vm._v(" "),
           _c(
@@ -37187,7 +36992,7 @@ var staticRenderFns = [
               staticClass: "btn-services scrollto",
               attrs: { href: "#services" }
             },
-            [_vm._v("Our Services")]
+            [_vm._v("Los Servicios")]
           )
         ])
       ])
@@ -37224,7 +37029,7 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "container" }, [
       _c("header", { staticClass: "section-header" }, [
-        _c("h3", [_vm._v("Services")]),
+        _c("h3", [_vm._v("servicios")]),
         _vm._v(" "),
         _c("p", [
           _vm._v(
@@ -37257,7 +37062,7 @@ var staticRenderFns = [
               _vm._v(" "),
               _c("p", { staticClass: "description" }, [
                 _vm._v(
-                  "No creamos simples páginas web, creamos herramientas digitales que vendan un producto o servicio online."
+                  "No creo simples páginas web, creo herramientas digitales que vendan un producto o servicio online."
                 )
               ])
             ])
@@ -37316,64 +37121,6 @@ var staticRenderFns = [
               _c("p", { staticClass: "description" }, [
                 _vm._v(
                   "El tiempo de carga es un factor importante en las ventas y para los usuarios según Google."
-                )
-              ])
-            ])
-          ]
-        ),
-        _vm._v(" "),
-        _c(
-          "div",
-          {
-            staticClass: "col-md-6 col-lg-5 wow bounceInUp",
-            attrs: { "data-wow-delay": "0.1s", "data-wow-duration": "1.4s" }
-          },
-          [
-            _c("div", { staticClass: "box" }, [
-              _c("div", { staticClass: "icon" }, [
-                _c("i", {
-                  staticClass: "ion-ios-speedometer-outline",
-                  staticStyle: { color: "#41cf2e" }
-                })
-              ]),
-              _vm._v(" "),
-              _c("h4", { staticClass: "title" }, [
-                _c("a", { attrs: { href: "" } }, [_vm._v("Analítica Web")])
-              ]),
-              _vm._v(" "),
-              _c("p", { staticClass: "description" }, [
-                _vm._v(
-                  "Configuramos una poderosa herramienta de análisis de datos, Google Analytics."
-                )
-              ])
-            ])
-          ]
-        ),
-        _vm._v(" "),
-        _c(
-          "div",
-          {
-            staticClass: "col-md-6 col-lg-5 offset-lg-1 wow bounceInUp",
-            attrs: { "data-wow-delay": "0.2s", "data-wow-duration": "1.4s" }
-          },
-          [
-            _c("div", { staticClass: "box" }, [
-              _c("div", { staticClass: "icon" }, [
-                _c("i", {
-                  staticClass: "ion-ios-world-outline",
-                  staticStyle: { color: "#d6ff22" }
-                })
-              ]),
-              _vm._v(" "),
-              _c("h4", { staticClass: "title" }, [
-                _c("a", { attrs: { href: "" } }, [
-                  _vm._v("Consola de Búsqueda")
-                ])
-              ]),
-              _vm._v(" "),
-              _c("p", { staticClass: "description" }, [
-                _vm._v(
-                  "Importante herramienta para supervisar el estado de indexación y optimizacion del sitio web."
                 )
               ])
             ])
@@ -49633,45 +49380,15 @@ module.exports = function(module) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-/**
- * First we will load all of this project's JavaScript dependencies which
- * includes Vue and other libraries. It is a great starting point when
- * building robust, powerful web applications using Vue and Laravel.
- */
 __webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
 
 window.Vue = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.common.js");
-/**
- * The following block of code may be used to automatically register your
- * Vue components. It will recursively scan this directory for the Vue
- * components and automatically register them with their "basename".
- *
- * Eg. ./components/ExampleComponent.vue -> <example-component></example-component>
- */
-// const files = require.context('./', true, /\.vue$/i)
-// files.keys().map(key => Vue.component(key.split('/').pop().split('.')[0], files(key).default))
-
 Vue.component('intro', __webpack_require__(/*! ./components/Intro.vue */ "./resources/js/components/Intro.vue").default);
 Vue.component('about', __webpack_require__(/*! ./components/About.vue */ "./resources/js/components/About.vue").default);
 Vue.component('services', __webpack_require__(/*! ./components/Services.vue */ "./resources/js/components/Services.vue").default);
 Vue.component('why-us', __webpack_require__(/*! ./components/Why-us.vue */ "./resources/js/components/Why-us.vue").default);
-/**
- * Next, we will create a fresh Vue application instance and attach it to
- * the page. Then, you may begin adding components to this application
- * or customize the JavaScript scaffolding to fit your unique needs.
- */
-
 var app = new Vue({
   el: '#app'
-});
-var app1 = new Vue({
-  el: '#app1'
-});
-var app2 = new Vue({
-  el: '#app2'
-});
-var app3 = new Vue({
-  el: '#app3'
 });
 
 /***/ }),
@@ -49744,17 +49461,15 @@ if (token) {
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _About_vue_vue_type_template_id_fb05e49c___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./About.vue?vue&type=template&id=fb05e49c& */ "./resources/js/components/About.vue?vue&type=template&id=fb05e49c&");
-/* harmony import */ var _About_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./About.vue?vue&type=script&lang=js& */ "./resources/js/components/About.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
-
-
+var script = {}
 
 
 /* normalize component */
 
-var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
-  _About_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__["default"])(
+  script,
   _About_vue_vue_type_template_id_fb05e49c___WEBPACK_IMPORTED_MODULE_0__["render"],
   _About_vue_vue_type_template_id_fb05e49c___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
   false,
@@ -49768,20 +49483,6 @@ var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_
 if (false) { var api; }
 component.options.__file = "resources/js/components/About.vue"
 /* harmony default export */ __webpack_exports__["default"] = (component.exports);
-
-/***/ }),
-
-/***/ "./resources/js/components/About.vue?vue&type=script&lang=js&":
-/*!********************************************************************!*\
-  !*** ./resources/js/components/About.vue?vue&type=script&lang=js& ***!
-  \********************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_About_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./About.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/About.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_About_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
 
 /***/ }),
 
@@ -49813,17 +49514,15 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Intro_vue_vue_type_template_id_0648c911___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Intro.vue?vue&type=template&id=0648c911& */ "./resources/js/components/Intro.vue?vue&type=template&id=0648c911&");
-/* harmony import */ var _Intro_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Intro.vue?vue&type=script&lang=js& */ "./resources/js/components/Intro.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
-
-
+var script = {}
 
 
 /* normalize component */
 
-var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
-  _Intro_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__["default"])(
+  script,
   _Intro_vue_vue_type_template_id_0648c911___WEBPACK_IMPORTED_MODULE_0__["render"],
   _Intro_vue_vue_type_template_id_0648c911___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
   false,
@@ -49837,20 +49536,6 @@ var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_
 if (false) { var api; }
 component.options.__file = "resources/js/components/Intro.vue"
 /* harmony default export */ __webpack_exports__["default"] = (component.exports);
-
-/***/ }),
-
-/***/ "./resources/js/components/Intro.vue?vue&type=script&lang=js&":
-/*!********************************************************************!*\
-  !*** ./resources/js/components/Intro.vue?vue&type=script&lang=js& ***!
-  \********************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Intro_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./Intro.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Intro.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Intro_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
 
 /***/ }),
 
@@ -49882,17 +49567,15 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Services_vue_vue_type_template_id_30b0c6c9___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Services.vue?vue&type=template&id=30b0c6c9& */ "./resources/js/components/Services.vue?vue&type=template&id=30b0c6c9&");
-/* harmony import */ var _Services_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Services.vue?vue&type=script&lang=js& */ "./resources/js/components/Services.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
-
-
+var script = {}
 
 
 /* normalize component */
 
-var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
-  _Services_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__["default"])(
+  script,
   _Services_vue_vue_type_template_id_30b0c6c9___WEBPACK_IMPORTED_MODULE_0__["render"],
   _Services_vue_vue_type_template_id_30b0c6c9___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
   false,
@@ -49906,20 +49589,6 @@ var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_
 if (false) { var api; }
 component.options.__file = "resources/js/components/Services.vue"
 /* harmony default export */ __webpack_exports__["default"] = (component.exports);
-
-/***/ }),
-
-/***/ "./resources/js/components/Services.vue?vue&type=script&lang=js&":
-/*!***********************************************************************!*\
-  !*** ./resources/js/components/Services.vue?vue&type=script&lang=js& ***!
-  \***********************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Services_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./Services.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Services.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Services_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
 
 /***/ }),
 
@@ -50028,8 +49697,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\xampp\htdocs\Myweb\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\xampp\htdocs\Myweb\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! D:\laragon\www\Myweb\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! D:\laragon\www\Myweb\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
