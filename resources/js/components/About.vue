@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <header class="section-header">
-      <h3>About us</h3>
+      <h3>Un poco de mi</h3>
       <p>
         Ingeniero de sistemas Desarrollador backend y fronend, manejo de lenguajes JAVA, PHP, SQL, JAVASCRIPT, CSS, AJAX, VUEX,
         framewors LARAVEL, VUE.JS, ELECTRON.JS, BOOTSTRAP, V-BOOTSTRAP, ELEMENT UI. Administración de plataformaS virtualales windosws, linux

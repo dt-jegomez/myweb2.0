@@ -29,11 +29,11 @@
     <div class="container">
       <nav class="main-nav float-right d-none d-lg-block">
         <ul>
-          <li class="active"><a href="#intro">Home</a></li>
-          <li><a href="#about">About Us</a></li>
+          <li class="active"><a href="#intro">Inicio</a></li>
+          <li><a href="#about">Acerca de</a></li>
           <li><a href="#services">Servicios</a></li>
           <li><a href="#why-us">Curiculum vitae</a></li>
-          <li><a href="#contact">Contact Us</a></li>
+          <li><a href="#contact">Contactame </a></li>
         </ul>
       </nav><!-- .main-nav -->
     </div>
@@ -68,7 +68,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-5 col-md-6 footer-contact">
-            <h4>Contact Us</h4>
+            <h4>Información de contacto</h4>
             <p>
               Carrera 28-34-29, Bucaramanga, Santader<br>
               Colombia <br>

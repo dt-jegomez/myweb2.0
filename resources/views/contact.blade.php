@@ -1,6 +1,6 @@
 <div class="container-fluid">
     <div class="section-header">
-      <h3>Contact Us</h3>
+      <h3>Contactame</h3>
     </div>
     <div class="row wow fadeInUp">
       <div class="col-lg-12">
@@ -40,7 +40,7 @@
               <div class="validation"></div>
             </div>
             <div class="text-center">
-                <button type="submit" title="Send Message" id='btn-contact' class="btn btn-primary">Send Message</button>
+                <button type="submit" title="Send Message" id='btn-contact' class="btn btn-primary">Enviar</button>
             </div>
           </form>
         </div>
