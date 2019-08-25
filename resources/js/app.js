@@ -18,6 +18,12 @@ const app = new Vue({
     el: '#app',    
 });
 
-
+import pdf from 'vue-pdf'
+ 
+export default {
+    components: {
+        pdf
+    }
+}
 
 
